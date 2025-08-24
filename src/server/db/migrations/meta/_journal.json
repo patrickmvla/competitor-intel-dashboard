@@ -8,6 +8,13 @@
       "when": 1755884490981,
       "tag": "0000_unusual_nico_minoru",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1755993786677,
+      "tag": "0001_shallow_eddie_brock",
+      "breakpoints": true
     }
   ]
 }
